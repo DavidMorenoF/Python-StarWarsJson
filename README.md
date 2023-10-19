@@ -1,4 +1,6 @@
 # Python-StarWarsJson
+## Licencia 📋
+[Licencia](https://github.com/DavidMorenoF/Python-StarWarsJson/blob/master/LICENSE)
 ***
 Bienvenidos a nuestro proyecto sobre tratamiento de ficheros json en python. Espero que os sirva de mucha ayuda, vamos allá !
 ## En qué consiste ❓
